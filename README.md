@@ -57,7 +57,7 @@ Stellar Network (Horizon, Soroban, Assets)
 Optional Reference Integrations (e.g. Wirex Payments)
 ```
 
-Full technical details: [ARCHITECTURE.md](./docs/ARCHITECTURE.md)
+Full technical details: [ARCHITECTURE.md](ARCHITECTURE.md)
 
 ---
 
