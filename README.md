@@ -190,4 +190,4 @@ Contribution guidelines will be added once the initial SDK surface is finalized.
 ## Links
 
 - Project website: [https://www.wirexapp.com/](https://www.wirexapp.com/)
-- Technical architecture: [ARCHITECTURE.md](./docs/ARCHITECTURE.md)
+- Technical architecture: [ARCHITECTURE.md](ARCHITECTURE.md)
